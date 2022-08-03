@@ -8,6 +8,7 @@ function App() {
       <div>
         <AllRoutes />
         <Navbar />
+        <h1>Shiv</h1>
       </div>
     </div>
   );
